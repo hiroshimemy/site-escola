@@ -1,6 +1,4 @@
-css
-.colorful-text{
-    background: linear-gradient(to right, aqua, blue );
-    -webkit-background-clip: text;
-    color: transparent;
+header {
+    background-color: #424E61;
+    color: white;
 }
